@@ -21,6 +21,8 @@
     "react-jwt": "^1.2.0"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+  },
+  "engines": {
+    "node": ">=14 <15"
   }
 }
